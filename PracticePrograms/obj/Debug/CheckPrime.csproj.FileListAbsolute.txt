@@ -1,3 +1,0 @@
-C:\Users\Varsha Rane\source\repos\CheckPrime\obj\Debug\CheckPrime.csproj.AssemblyReference.cache
-C:\Users\Varsha Rane\source\repos\CheckPrime\obj\Debug\CheckPrime.csproj.SuggestedBindingRedirects.cache
-C:\Users\Varsha Rane\source\repos\CheckPrime\obj\Debug\CheckPrime.csproj.CoreCompileInputs.cache
