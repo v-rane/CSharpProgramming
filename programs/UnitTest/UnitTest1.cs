@@ -21,7 +21,7 @@ namespace UnitTest
         {
             TwoSum twoSum = new TwoSum();
             int[] array= {2,3,4,5,8};
-            Assert.AreEqual(true, twoSum.getTwoSum(array, 5));
+            Assert.AreEqual(true, twoSum.getTwoSum(array, 5,5));
         }
         public void TestSumOfNumber()
         {
